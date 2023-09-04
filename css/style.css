@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/**********************************
+  Navigation area
+***********************************/
+
+
+/**********************************
+ About section
+***********************************/
+
+
+
+/**********************************
+ Service area
+***********************************/
+
+
+#service #web-development {
+    width: 25%;
+    height: 400px;
+    float: left;
+    margin: 10px;
+    padding: 25px;
+    overflow: hidden;
+    background-color: bisque;
+    box-sizing: border-box;
+
+}
+
+#seo-service {
+    width: 25%;
+    height: 400px;
+    float: left;
+    margin: 10px;
+    padding: 25px;
+    overflow: scroll;
+    background-color: gray;
+    box-sizing: border-box;
+
+}
+
+#graphic-service {
+    width: 25%;
+    height: 400px;
+    float: left;
+    margin: 10px;
+    padding: 25px;
+    overflow: scroll;
+    background-color: lightblue;
+    box-sizing: border-box;
+
+}
+
+
+/**********************************
+ Side-bar area
+***********************************/
+#side-bar {
+    width: 20%;
+    height: 400px;
+    float: right;
+    margin: 10px;
+    padding: 25px;
+    text-align: justify;
+    box-sizing: border-box;
+    background-color: hotpink;
+
+}
+
+
+/**********************************
+Contact
+***********************************/
+
+
+/**********************************
+ Footer area
+***********************************/
